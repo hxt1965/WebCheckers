@@ -1,0 +1,49 @@
+commit 960f635c55e5cda212276e4619bc018d1ede78f8
+Author: Jiaxin Wang <jw5304@rit.edu>
+Date:   Wed Feb 13 19:45:42 2019 -0500
+
+    Vicky: finally got in
+
+commit 28c24140d9bbe789fd5dc420a606b5108244180f
+Author: pgw5563 <46692948+pgw5563@users.noreply.github.com>
+Date:   Wed Feb 13 19:30:50 2019 -0500
+
+    Add files via upload
+
+commit 6b535d3e74e326762b0ed6ee1354155a4abb5c74
+Author: Harsh <hxt1965@rit.edu>
+Date:   Wed Feb 13 18:40:20 2019 -0500
+
+    step 4 done ~ hxt1965
+
+commit 4f79f37d1c81ea6839a693e6308783a29bc6a435
+Author: jxb4892 <jxb4892@rit.edu>
+Date:   Tue Feb 12 21:38:10 2019 -0500
+
+    JiWoo checking in
+
+commit c44a90ce970b5bc9633753cf98f331cb91c3baa1
+Author: U-SE\pgw5563 <pgw5563@JUGGLER.se.rit.edu>
+Date:   Mon Feb 11 19:28:56 2019 -0500
+
+    First commit!
+
+commit 5dc17b28dd8e9f31a110a04e38e752b8a0d6d310
+Author: pgw5563 <46692948+pgw5563@users.noreply.github.com>
+Date:   Mon Feb 11 19:23:58 2019 -0500
+
+    Update README.md
+    
+    Added our team names
+
+commit 1a8c0b2e216ee0b89ce69a70ec46837b1d7c7f60
+Author: Kenn Martinez <KennUbuntu@ACHEPEHnvy.com>
+Date:   Thu Feb 7 16:01:14 2019 -0500
+
+    For your benefit
+
+commit 7aaad62534cec1f265ced16951251c2db0109408
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Thu Feb 7 15:51:00 2019 -0500
+
+    Initial WEBCHECKERS SEED REPO for 2185
